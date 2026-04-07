@@ -39,6 +39,6 @@ export function switchLocalePath(
 
 export function getLocaleSubtitle(locale: SiteLocale): string {
 	return locale === EN_LOCALE
-		? "PhD Student / Researcher / Developer"
-		: "博士生 · 研究者 · 开发者";
+		? "Quality Management / Supplier Quality / NPI"
+		: "品质管理 · 供应商质量 · 新产品导入";
 }
