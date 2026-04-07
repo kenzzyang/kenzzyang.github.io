@@ -10,7 +10,7 @@ import { LinkPreset } from "./types/config";
 export const siteConfig: SiteConfig = {
 	title: "Ken Yang",
 	subtitle:
-		"品质管理 · 供应商质量 · 制造改善 | Quality Management · Supplier Quality · Manufacturing Improvement",
+		"制造业品质管理 · 供应商质量 · 新产品导入 | Quality Management · Supplier Quality · NPI",
 	lang: "zh_CN",
 	themeColor: {
 		hue: 220,
@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "https://github.com/kenzzyang.png",
 	name: "Ken Yang",
-	bio: "二十多年制造业品质与现场改善经验，关注供应商质量、体系建设、APQP/PFMEA 与团队协同。",
+	bio: "二十多年制造业经验，长期从事品质管理、供应商质量、新产品导入与现场改善。",
 	links: [
 		{
 			name: "GitHub",

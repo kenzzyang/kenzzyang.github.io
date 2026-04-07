@@ -1,31 +1,28 @@
 # About Me
 
 Hi, I'm **Ken Yang**, based in **Ezhou, Hubei, China**.  
-I have spent more than two decades working in **quality management, supplier quality, and manufacturing improvement**.
+I have spent more than twenty years working in **manufacturing quality management, supplier quality, new product introduction, and process improvement**.
 
-Over the years, I have worked across vehicle-related products, civilian airgun products, and electrical switch manufacturing, with roles such as:
+Over the years, I have worked across vehicle-related products, civilian airgun products, and electrical switch manufacturing, serving in roles such as quality engineer, quality manager, management representative, assistant general manager, and executive vice president. My work has consistently focused on one core principle:
 
-- Senior Quality Manager / Quality Manager
-- Management Representative / Assistant General Manager
-- Executive Vice President
-- Quality engineering and customer-facing technical roles
+> Quality should not remain at the inspection stage. It should be pushed upstream into suppliers, processes, tooling, and new product introduction.
 
 My main professional interests include:
 
 - supplier quality management and incoming quality improvement
-- new product introduction, APQP, PFMEA, and inspection planning
-- quality-system implementation and audit readiness
+- APQP, PFMEA, inspection planning, and NPI execution
+- quality-system implementation, audit readiness, and process standardization
 - process troubleshooting, fixture improvement, and efficiency gains
-- team coordination, standardized workflows, and factory-floor management
+- team coordination, shop-floor management, and continuous improvement
 
-## What I write here
+## What this site is about
 
-This site will gradually collect and share practical notes on topics such as:
+This site will gradually collect practical notes and reflections on topics such as:
 
-- quality management and supplier development
-- manufacturing process optimization and shop-floor improvement
-- new product introduction and risk prevention
-- career experience, management reflections, and personal notes
+- key levers in supplier quality management
+- risk prevention during new product introduction
+- quality collaboration and manufacturing improvement on the shop floor
+- management reflections, career experience, and personal notes
 
 ## Contact
 
